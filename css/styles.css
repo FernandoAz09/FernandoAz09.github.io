@@ -9,7 +9,7 @@ header {
 
 #headerTitle {
     font-family: "Press Start 2P", sans-serif;
-    color: #FDFFFC;
+    color: #fff;
     text-shadow: 5px 5px 0px #F71735;
     transition: 0.4s ease-in-out;
 }
