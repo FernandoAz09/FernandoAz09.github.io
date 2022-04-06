@@ -4,13 +4,14 @@
     box-shadow: 5px 5px 0px #4de9d4;
     padding: 18px 20px;
     margin-right: 0px;
+    text-decoration: none;
     cursor: pointer;
+    color: #fff;
     transition: 0.4s ease-in-out;
 }
 
 .button:hover {
     background-color: #F71735;
-    color: #fff;
     box-shadow: 2px 2px 0px #41EAD4;
     transform: scale(1.05);
 }

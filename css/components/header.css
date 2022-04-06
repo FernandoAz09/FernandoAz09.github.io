@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #012650;
+    border-bottom: 10px solid #4de9d4;
+    padding: 10px 20px;
+}
+
+#headerTitle {
+    font-family: "Press Start 2P", sans-serif;
+    color: #fff;
+    text-shadow: 5px 5px 0px #F71735;
+    transition: 0.4s ease-in-out;
+}
+
+#headerTitle:hover {
+    color: #fff;
+    transform: scale(1.05);
+}
