@@ -38,15 +38,7 @@ a::before {
     margin-right: 10px;
 }
 
-.button {
-    display: inline-block;
-    background-color: #ff2441;
-    box-shadow: 5px 5px 0px #4de9d4;
-    padding: 18px 20px;
-    margin-right: 0px;
-    cursor: pointer;
-    transition: 0.4s ease-in-out;
-}
+/* **************** Hover Effects**************** */
 
 #headerTitle:hover {
     color: #fff;
@@ -58,10 +50,5 @@ a:hover {
     transform: scale(1.05);
 }
 
-.button:hover {
-    background-color: #F71735;
-    color: #fff;
-    box-shadow: 2px 2px 0px #41EAD4;
-    transform: scale(1.05);
-}
+
 
