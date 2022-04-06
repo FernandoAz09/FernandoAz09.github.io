@@ -3,7 +3,7 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #012650;
-    border-bottom: 10px solid #41EAD4;
+    border-bottom: 10px solid #4de9d4;
     padding: 10px 20px;
 }
 
@@ -40,8 +40,8 @@ a::before {
 
 .button {
     display: inline-block;
-    background-color: #F71735af;
-    box-shadow: 5px 5px 0px #41EAD4af;
+    background-color: #ff2441;
+    box-shadow: 5px 5px 0px #4de9d4;
     padding: 18px 20px;
     margin-right: 0px;
     cursor: pointer;
