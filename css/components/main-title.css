@@ -1,11 +1,11 @@
-.title {
+.main-title {
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     color: #F71735;
     text-shadow: 3px 3px 0px #FFF;
 }
 
-.title.-second { /* -second = variação da classe // herda mas não tudo*/
+.main-title.-second { /* -second = variação da classe // herda mas não tudo*/
     color: #FFF;
     text-shadow: none;
     text-align: center;
