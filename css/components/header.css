@@ -11,10 +11,11 @@ header {
     font-family: "Press Start 2P", sans-serif;
     color: #fff;
     text-shadow: 5px 5px 0px #F71735;
-    transition: 0.4s ease-in-out;
+    cursor: default;
+    transition: 0.2s ease-in-out;
 }
 
 #headerTitle:hover {
     color: #fff;
-    transform: scale(1.05);
+    text-shadow: 5px 5px 6px #F71735;
 }

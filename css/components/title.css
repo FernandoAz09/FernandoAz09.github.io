@@ -4,3 +4,9 @@
     color: #F71735;
     text-shadow: 3px 3px 0px #FFF;
 }
+
+.title.-second { /* -second = variação da classe // herda mas não tudo*/
+    color: #FFF;
+    text-shadow: none;
+    text-align: center;
+}
