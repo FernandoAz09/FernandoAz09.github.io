@@ -8,11 +8,15 @@
     text-decoration: none;
     cursor: pointer;
     color: #fff;
-    transition: 0.1s ease-in-out;
+    transition: 0.2s ease-in-out;
 }
 
 .main-button:hover {
     background-color: #F71735;
     box-shadow: 2px 2px 0px #41EAD4;
     transform: scale(1.05);
+}
+
+.main-button.-full {
+    width: 90%;
 }
